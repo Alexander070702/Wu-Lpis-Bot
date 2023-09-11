@@ -1,14 +1,15 @@
-LPIS Course Registration Automation
+# LPIS Course Registration Automation
 
 This script automates the process of logging into the LPIS system of WU University and registering for a course. It waits until a specified time to refresh the page and click the registration button.
 
-Features
+## Features
 
 Automated login to the LPIS system.
 Waits for a specified time to refresh the page.
 Automatically clicks the registration button for a specified course.
 Handles errors and exceptions gracefully.
-Prerequisites
+
+## Prerequisites
 
 Python 3.x
 Selenium library for Python
